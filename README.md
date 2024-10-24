@@ -13,11 +13,13 @@ Por ejemplo:
 ![image](https://github.com/user-attachments/assets/2ff34391-06da-4f34-beae-c7994a975f80)
 
 
+
 Para esta actividad, haga una captura de pantalla del resultado de la ejecución del comando anterior DE CADA UNO de los ejercicios, por ejemplo:
 
 ## Resultados
 
-<img width="184" alt="image" src="https://github.com/user-attachments/assets/2d70a081-5c97-45cc-b86a-3d2e0eeff7df">
+<img width="184" alt="image" src="https://github.com/user-attachments/assets/fb732928-e3b0-4c27-97d5-b57ef8ec8aee">
+
 
 
 ## Codigo
